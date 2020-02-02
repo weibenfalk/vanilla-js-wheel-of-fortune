@@ -35,12 +35,12 @@
 
 @keyframes blur {
   0% {
-    -webkit-filter: blur(1.5px);
+    filter: blur(1.5px);
   }
   80% {
-    -webkit-filter: blur(1.5px);
+    filter: blur(1.5px);
   }
   100% {
-    -webkit-filter: blur(0px);
+    filter: blur(0px);
   }
 }
